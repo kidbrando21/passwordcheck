@@ -2,10 +2,10 @@
 This will check if your password is strong enough according to current industry standards
 
 running the file:
-python passwordcheck.py
+python passwordchecker.py
 
 or 
 
-python3 passwordcheck.py
+python3 passwordchecker.py
 
 needs python to run!
